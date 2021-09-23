@@ -14,3 +14,5 @@ I'm REHAMAN NAGURU ABDUR, I love Trees
 - [ ] item 1
 - [x] item 2 (it’s done!)
 - [ ] item 3
+
+$f(x) = x^2$.
