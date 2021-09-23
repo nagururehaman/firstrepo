@@ -9,9 +9,8 @@ I'm REHAMAN NAGURU ABDUR, I love Trees
 ```
 
 I want to ride the merry_go_round is
-different to the merry\_go\_round.
-`
-```
+~~different to the merry\_go\_round.~~
+
 
 - [ ] item 1
 - [x] item 2 (it’s done!)
